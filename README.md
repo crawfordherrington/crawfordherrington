@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I’m Crawford Herrington
 
-<!--
-**crawfordherrington/crawfordherrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Communication + Information Technology  
+📍 Kentucky | 🌍 Born in Cape Town, South Africa  
+🎯 Focus: Remote/Hybrid IT Support, Cloud Computing & Systems Administration  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a senior Communication major with an IT certificate from the University of Cincinnati, graduating in December 2025.  
+My background combines user-focused support with technical skills across Windows, Linux, cloud infrastructure, and scripting.  
+I’ve worked hands-on in IT support, and I’m currently building up my cloud knowledge with AWS and DevOps tools like Docker, Git, and CI/CD.
+
+---
+
+## 🧰 Tech Stack
+
+- **Operating Systems:** Windows, Linux (Ubuntu, RHEL)
+- **Cloud & DevOps:** AWS EC2, S3, IAM (in progress), Docker, GitHub Actions
+- **Scripting & Tools:** Bash, PowerShell, YAML, JSON, Git
+- **Support Tools:** Active Directory, Office 365, Windows Server
+
+---
+
+## 📁 Projects Incoming
+
+Stay tuned for projects showcasing:
+- ✅ AWS EC2 deployment with a secure Apache web server  
+- ✅ CI/CD pipeline with GitHub Actions and Docker  
+- ✅ IT support automation with PowerShell and Bash  
+- ✅ Remote desktop & helpdesk scripts  
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/crawfordherrington)
+- [Resume (PDF)](https://drive.google.com/file/d/1QkQ-M-M1M-IBkubCYr2trZQXRCj-zynY/view?usp=sharing)
+- [Email Me](mailto:crawfordherrington@gmail.com)
+
+---
+
+🧠 Always learning. Always building.  
+💻 Looking for remote/hybrid IT roles that value initiative and adaptability.
