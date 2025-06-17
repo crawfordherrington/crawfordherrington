@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a senior Communication major with an IT certificate from the University of Cincinnati, graduating in December 2025.  
+I'm a senior majoring in Communication with an IT certificate from the University of Cincinnati, graduating in December 2025.  
 My background combines user-focused support with technical skills across Windows, Linux, cloud infrastructure, and scripting.  
 I’ve worked hands-on in IT support, and I’m currently building up my cloud knowledge with AWS and DevOps tools like Docker, Git, and CI/CD.
 
@@ -36,7 +36,7 @@ Stay tuned for projects showcasing:
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/crawfordherrington)
-- [Resume (PDF)](https://drive.google.com/file/d/1QkQ-M-M1M-IBkubCYr2trZQXRCj-zynY/view?usp=sharing)
+- [Resume (PDF)](https://docs.google.com/document/d/1E25IbYMICOdI0y1wCdok2Ye3_jkWKY_3MN62-5C36Nk/export?format=pdf)
 - [Email Me](mailto:crawfordherrington@gmail.com)
 
 ---
