@@ -37,7 +37,7 @@ Stay tuned for more:
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/crawfordherrington)
-- [Resume (PDF)](https://docs.google.com/document/d/e/2PACX-1vTku8UUAHUlfHyI8xIxx3nH1m5OSVmXVpDWYxSJAIqh87LRJr7KjEohcO688sRh94D0vO-CSdh-onXG/export?format=pdf)
+- [Resume (PDF)](https://docs.google.com/document/d/1E25IbYMICOdI0y1wCdok2Ye3_jkWKY_3MN62-5C36Nk/export?format=pdf)
 - [Email Me](mailto:crawfordherrington@gmail.com)
 
 ---
