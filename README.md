@@ -26,7 +26,7 @@ I’ve worked hands-on in IT support, and I’m currently building up my cloud k
 
 ## 📁 Projects
 
-Stay tuned for more projects showcasing:
+Stay tuned for more:
 - ✅ AWS EC2 deployment with a secure Apache web server  
 - ✅ CI/CD pipeline with GitHub Actions and Docker  
 - ✅ IT support automation with PowerShell and Bash  
@@ -37,7 +37,7 @@ Stay tuned for more projects showcasing:
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/crawfordherrington)
-- [Resume (PDF)](https://docs.google.com/document/d/1E25IbYMICOdI0y1wCdok2Ye3_jkWKY_3MN62-5C36Nk/edit?usp=sharing)
+- [Resume (PDF)](https://docs.google.com/document/d/e/2PACX-1vTku8UUAHUlfHyI8xIxx3nH1m5OSVmXVpDWYxSJAIqh87LRJr7KjEohcO688sRh94D0vO-CSdh-onXG/export?format=pdf)
 - [Email Me](mailto:crawfordherrington@gmail.com)
 
 ---
