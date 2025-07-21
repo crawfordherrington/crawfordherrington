@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Crawford Herrington
 
 🎓 Communication + Information Technology  
-📍 Kentucky | 🌍 Born in Cape Town, South Africa  
+📍 Denver, CO | 🌍 Born in Cape Town, South Africa  
 🎯 Focus: Remote/Hybrid IT Support, Cloud Computing & Systems Administration  
 
 ---
 
 ## 🚀 About Me
 
-I'm a senior majoring in Communication with an IT certificate from the University of Cincinnati, graduating in December 2025.  
+I have a Bachelor's Degree in Communication with an IT certificate from the University of Cincinnati.  
 My background combines user-focused support with technical skills across Windows, Linux, cloud infrastructure, and scripting.  
 I’ve worked hands-on in IT support, and I’m currently building up my cloud knowledge with AWS and DevOps tools like Docker, Git, and CI/CD.
 
