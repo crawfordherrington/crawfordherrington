@@ -16,16 +16,17 @@ I’ve worked hands-on in IT support, and I’m currently building up my cloud k
 
 ## 🧰 Tech Stack
 
-- **Operating Systems:** Windows, Linux (Ubuntu, RHEL)
-- **Cloud & DevOps:** AWS EC2, S3, IAM (in progress), Docker, GitHub Actions
-- **Scripting & Tools:** Bash, PowerShell, YAML, JSON, Git
-- **Support Tools:** Active Directory, Office 365, Windows Server
+- **Systems & Administration:** Windows Server, Active Directory, Group Policy, Office 365, Endpoint Management.
+- **Scripting & Automation:** PowerShell, Bash, AWS CLI, CSV Parsing, User Onboarding Scripts.
+- **Cloud & DevOps Tools:** AWS EC2, S3, IAM, VPC, Git, GitHub, CI/CD Fundamentals.
+- **Platforms & Environments:** Windows 10/11, macOS, Linux (Ubuntu, Amazon Linux), VirtualBox, VMware.
+- **Networking & Security:** DNS, DHCP, Firewalls, SSH, System Hardening, Vulnerability Assessment.
 
 ---
 
-## 📁 Projects Incoming
+## 📁 Projects
 
-Stay tuned for projects showcasing:
+Stay tuned for more projects showcasing:
 - ✅ AWS EC2 deployment with a secure Apache web server  
 - ✅ CI/CD pipeline with GitHub Actions and Docker  
 - ✅ IT support automation with PowerShell and Bash  
@@ -36,7 +37,7 @@ Stay tuned for projects showcasing:
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/crawfordherrington)
-- [Resume (PDF)](https://docs.google.com/document/d/1E25IbYMICOdI0y1wCdok2Ye3_jkWKY_3MN62-5C36Nk/export?format=pdf)
+- [Resume (PDF)](https://docs.google.com/document/d/1E25IbYMICOdI0y1wCdok2Ye3_jkWKY_3MN62-5C36Nk/edit?usp=sharing)
 - [Email Me](mailto:crawfordherrington@gmail.com)
 
 ---
